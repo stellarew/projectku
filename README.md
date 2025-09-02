@@ -1,10 +1,18 @@
 # Projectku
 
-Ini adalah backup lengkap folder Projects, termasuk:
-- automation
-- backup_github.sh
-- clean_system.sh
-- python
-- web
+Repo ini berisi project pribadi untuk latihan automasi, skrip Python, dan project web kecil.
 
-Semua proyek Python dan skrip otomatisasi disimpan di sini.
+## Struktur Folder
+
+- `automation/` - Skrip automasi
+- `backup_github.sh` - Backup repository ke GitHub
+- `clean_system.sh` - Skrip pembersihan sistem
+- `python/` - Project Python
+- `web/` - Project web
+
+## Instalasi & Setup
+
+1. Clone repo:
+```bash
+git clone https://github.com/stellarew/projectku.git
+cd projectku
